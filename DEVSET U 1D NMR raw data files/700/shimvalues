@@ -1,0 +1,100 @@
+# Tue Jan 30 09:46:32 2018
+#$$PROBEIDENTIFIER=Z814601_0072
+#$$PROBENAME=PA BBI 600S3 H-BB-D-05 Z
+#$$SHIMID=292722
+#
+# Active Shim Gradients
+#
+Z           		5741            
+Z2          		2127            
+Z3          		-1490           
+Z4          		-10713          
+Z5          		77              
+Z6          		1643            
+Z7          		8810            
+Z8          		13444           
+X           		-1370           
+XZ          		471             
+XZ2         		1406            
+XZ3         		-1534           
+XZ4         		-1421           
+XZ5         		6396            
+Y           		8506            
+YZ          		-3644           
+YZ2         		-6945           
+YZ3         		-2859           
+YZ4         		221             
+YZ5         		3713            
+XY          		1745            
+XYZ         		4036            
+XYZ2        		-2341           
+XYZ3        		-1174           
+XYZ4        		6717            
+XYZ5        		0               
+(X2-Y2)     		10394           
+(X2-Y2)Z    		-382            
+(X2-Y2)Z2   		3163            
+(X2-Y2)Z3   		-443            
+(X2-Y2)Z4   		-4320           
+(X2-Y2)Z5   		0               
+X3          		3652            
+X3Z         		12560           
+Y3          		-6209           
+Y3Z         		2722            
+#
+# Lock Parameter
+#
+FIELD		2731.098
+LOCKPHASE		206.966 
+LOCKPOWER		-18.000 
+LOCKGAIN		111.877 
+LOCKDC		-45.000 
+LOCKSHIFT		4.700   
+LOOPGAIN		-9.930  
+LOOPTIME		0.470   
+LOOPFILTER		45.000  
+#
+IEEE64_VERSION_CODE 1
+#
+# Shim currents 
+#
+SHIM_SETTING [1 ]  4074.41833864   
+SHIM_SETTING [2 ]  -6443.42267048  
+SHIM_SETTING [3 ]  -6192.36609556  
+SHIM_SETTING [4 ]  19708.42266818  
+SHIM_SETTING [5 ]  -10151.36357676 
+SHIM_SETTING [6 ]  -8216.54360086  
+SHIM_SETTING [7 ]  12122.26859158  
+SHIM_SETTING [8 ]  -4004.93458576  
+SHIM_SETTING [9 ]  728.39153761    
+SHIM_SETTING [10]  -1992.00194216  
+SHIM_SETTING [11]  2600.00000000   
+SHIM_SETTING [12]  -8931.04800000  
+SHIM_SETTING [13]  -3487.54100000  
+SHIM_SETTING [14]  -4320.44900000  
+SHIM_SETTING [15]  608.75569725    
+SHIM_SETTING [16]  -1999.39230275  
+SHIM_SETTING [17]  2330.84028832   
+SHIM_SETTING [18]  -4046.24928832  
+SHIM_SETTING [19]  3225.35550834   
+SHIM_SETTING [20]  -7564.70274833  
+SHIM_SETTING [21]  7173.05700000   
+SHIM_SETTING [22]  8592.14200000   
+SHIM_SETTING [23]  12408.70100000  
+SHIM_SETTING [24]  12386.67200000  
+SHIM_SETTING [25]  -396.37300000   
+SHIM_SETTING [26]  661.09400000    
+SHIM_SETTING [27]  7862.90500000   
+SHIM_SETTING [28]  -4069.41015596  
+SHIM_SETTING [29]  5855.43700000   
+SHIM_SETTING [30]  6399.40100000   
+SHIM_SETTING [31]  14713.04300000  
+SHIM_SETTING [32]  5810.66784404   
+SHIM_SETTING [33]  5073.64100000   
+SHIM_SETTING [34]  -1263.66600000  
+SHIM_SETTING [35]  329.81000000    
+SHIM_SETTING [36]  -6844.46500000  
+SHIM_SETTING [37]  5259.45945235   
+SHIM_SETTING [38]  7353.49545235   
+SHIM_SETTING [39]  10828.28000000  
+SHIM_SETTING [40]  2600.00000000   

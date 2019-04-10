@@ -1,0 +1,96 @@
+Sample ID,Sample File Name,AssayRole,SampleType,Dilution,Include Sample,Class
+DevSet1_Rep1,DEVSET U 1D NMR raw data files/10,Assay,Study Sample,100,TRUE,DevSet1
+DevSet2_Rep1,DEVSET U 1D NMR raw data files/20,Assay,Study Sample,100,TRUE,DevSet2
+DevSet3_Rep1,DEVSET U 1D NMR raw data files/30,Assay,Study Sample,100,TRUE,DevSet3
+DevSet4_Rep1,DEVSET U 1D NMR raw data files/40,Assay,Study Sample,100,TRUE,DevSet1v2
+DevSet5_Rep1,DEVSET U 1D NMR raw data files/50,Assay,Study Sample,100,TRUE,DevSet1v3
+DevSet6_Rep1,DEVSET U 1D NMR raw data files/60,Assay,Study Sample,100,TRUE,DevSet2v3
+DevSet1_Rep2,DEVSET U 1D NMR raw data files/70,Assay,Study Sample,100,TRUE,DevSet1
+DevSet2_Rep2,DEVSET U 1D NMR raw data files/80,Assay,Study Sample,100,TRUE,DevSet2
+DevSet3_Rep2,DEVSET U 1D NMR raw data files/90,Assay,Study Sample,100,TRUE,DevSet3
+DevSet4_Rep2,DEVSET U 1D NMR raw data files/100,Assay,Study Sample,100,TRUE,DevSet1v2
+Long-Term Reference 01,DEVSET U 1D NMR raw data files/110,Precision Reference,External Reference,100,TRUE,External Reference
+Study Reference 01,DEVSET U 1D NMR raw data files/120,Precision Reference,Study Pool,100,TRUE,Study Pool
+DevSet5_Rep2,DEVSET U 1D NMR raw data files/130,Assay,Study Sample,100,TRUE,DevSet1v3
+DevSet6_Rep2,DEVSET U 1D NMR raw data files/140,Assay,Study Sample,100,TRUE,DevSet2v3
+DevSet1_Rep3,DEVSET U 1D NMR raw data files/150,Assay,Study Sample,100,TRUE,DevSet1
+DevSet2_Rep3,DEVSET U 1D NMR raw data files/160,Assay,Study Sample,100,TRUE,DevSet2
+DevSet3_Rep3,DEVSET U 1D NMR raw data files/170,Assay,Study Sample,100,TRUE,DevSet3
+DevSet4_Rep3,DEVSET U 1D NMR raw data files/180,Assay,Study Sample,100,TRUE,DevSet1v2
+DevSet5_Rep3,DEVSET U 1D NMR raw data files/190,Assay,Study Sample,100,TRUE,DevSet1v3
+DevSet6_Rep3,DEVSET U 1D NMR raw data files/200,Assay,Study Sample,100,TRUE,DevSet2v3
+DevSet1_Rep4,DEVSET U 1D NMR raw data files/210,Assay,Study Sample,100,TRUE,DevSet1
+DevSet2_Rep4,DEVSET U 1D NMR raw data files/220,Assay,Study Sample,100,TRUE,DevSet2
+Long-Term Reference 02,DEVSET U 1D NMR raw data files/230,Precision Reference,External Reference,100,TRUE,External Reference
+Study Reference 02,DEVSET U 1D NMR raw data files/240,Precision Reference,Study Pool,100,TRUE,Study Pool
+DevSet3_Rep4,DEVSET U 1D NMR raw data files/250,Assay,Study Sample,100,TRUE,DevSet3
+DevSet4_Rep4,DEVSET U 1D NMR raw data files/260,Assay,Study Sample,100,TRUE,DevSet1v2
+DevSet5_Rep4,DEVSET U 1D NMR raw data files/270,Assay,Study Sample,100,TRUE,DevSet1v3
+DevSet6_Rep4,DEVSET U 1D NMR raw data files/280,Assay,Study Sample,100,TRUE,DevSet2v3
+DevSet1_Rep5,DEVSET U 1D NMR raw data files/290,Assay,Study Sample,100,TRUE,DevSet1
+DevSet2_Rep5,DEVSET U 1D NMR raw data files/300,Assay,Study Sample,100,TRUE,DevSet2
+DevSet3_Rep5,DEVSET U 1D NMR raw data files/310,Assay,Study Sample,100,TRUE,DevSet3
+DevSet4_Rep5,DEVSET U 1D NMR raw data files/320,Assay,Study Sample,100,TRUE,DevSet1v2
+DevSet5_Rep5,DEVSET U 1D NMR raw data files/330,Assay,Study Sample,100,TRUE,DevSet1v3
+DevSet6_Rep5,DEVSET U 1D NMR raw data files/340,Assay,Study Sample,100,TRUE,DevSet2v3
+Long-Term Reference 03,DEVSET U 1D NMR raw data files/350,Precision Reference,External Reference,100,TRUE,External Reference
+Study Reference 03,DEVSET U 1D NMR raw data files/360,Precision Reference,Study Pool,100,TRUE,Study Pool
+DevSet1_Rep6,DEVSET U 1D NMR raw data files/370,Assay,Study Sample,100,TRUE,DevSet1
+DevSet2_Rep6,DEVSET U 1D NMR raw data files/380,Assay,Study Sample,100,TRUE,DevSet2
+DevSet3_Rep6,DEVSET U 1D NMR raw data files/390,Assay,Study Sample,100,TRUE,DevSet3
+DevSet4_Rep6,DEVSET U 1D NMR raw data files/400,Assay,Study Sample,100,TRUE,DevSet1v2
+DevSet5_Rep6,DEVSET U 1D NMR raw data files/410,Assay,Study Sample,100,TRUE,DevSet1v3
+DevSet6_Rep6,DEVSET U 1D NMR raw data files/420,Assay,Study Sample,100,TRUE,DevSet2v3
+DevSet1_Rep7,DEVSET U 1D NMR raw data files/430,Assay,Study Sample,100,TRUE,DevSet1
+DevSet2_Rep7,DEVSET U 1D NMR raw data files/440,Assay,Study Sample,100,TRUE,DevSet2
+DevSet3_Rep7,DEVSET U 1D NMR raw data files/450,Assay,Study Sample,100,TRUE,DevSet3
+DevSet4_Rep7,DEVSET U 1D NMR raw data files/460,Assay,Study Sample,100,TRUE,DevSet1v2
+Long-Term Reference 04,DEVSET U 1D NMR raw data files/470,Precision Reference,External Reference,100,TRUE,External Reference
+Study Reference 04,DEVSET U 1D NMR raw data files/480,Precision Reference,Study Pool,100,TRUE,Study Pool
+DevSet5_Rep7,DEVSET U 1D NMR raw data files/490,Assay,Study Sample,100,TRUE,DevSet1v3
+DevSet6_Rep7,DEVSET U 1D NMR raw data files/500,Assay,Study Sample,100,TRUE,DevSet2v3
+DevSet1_Rep8,DEVSET U 1D NMR raw data files/510,Assay,Study Sample,100,TRUE,DevSet1
+DevSet2_Rep8,DEVSET U 1D NMR raw data files/520,Assay,Study Sample,100,TRUE,DevSet2
+DevSet3_Rep8,DEVSET U 1D NMR raw data files/530,Assay,Study Sample,100,TRUE,DevSet3
+DevSet4_Rep8,DEVSET U 1D NMR raw data files/540,Assay,Study Sample,100,TRUE,DevSet1v2
+DevSet5_Rep8,DEVSET U 1D NMR raw data files/550,Assay,Study Sample,100,TRUE,DevSet1v3
+DevSet6_Rep8,DEVSET U 1D NMR raw data files/560,Assay,Study Sample,100,TRUE,DevSet2v3
+DevSet1_Rep9,DEVSET U 1D NMR raw data files/570,Assay,Study Sample,100,TRUE,DevSet1
+DevSet2_Rep9,DEVSET U 1D NMR raw data files/580,Assay,Study Sample,100,TRUE,DevSet2
+Long-Term Reference 05,DEVSET U 1D NMR raw data files/590,Precision Reference,External Reference,100,TRUE,External Reference
+Study Reference 05,DEVSET U 1D NMR raw data files/600,Precision Reference,Study Pool,100,TRUE,Study Pool
+DevSet3_Rep9,DEVSET U 1D NMR raw data files/610,Assay,Study Sample,100,TRUE,DevSet3
+DevSet4_Rep9,DEVSET U 1D NMR raw data files/620,Assay,Study Sample,100,TRUE,DevSet1v2
+DevSet5_Rep9,DEVSET U 1D NMR raw data files/630,Assay,Study Sample,100,TRUE,DevSet1v3
+DevSet6_Rep9,DEVSET U 1D NMR raw data files/640,Assay,Study Sample,100,TRUE,DevSet2v3
+DevSet1_Rep10,DEVSET U 1D NMR raw data files/650,Assay,Study Sample,100,TRUE,DevSet1
+DevSet2_Rep10,DEVSET U 1D NMR raw data files/660,Assay,Study Sample,100,TRUE,DevSet2
+DevSet3_Rep10,DEVSET U 1D NMR raw data files/670,Assay,Study Sample,100,TRUE,DevSet3
+DevSet4_Rep10,DEVSET U 1D NMR raw data files/680,Assay,Study Sample,100,TRUE,DevSet1v2
+DevSet5_Rep10,DEVSET U 1D NMR raw data files/690,Assay,Study Sample,100,TRUE,DevSet1v3
+DevSet6_Rep10,DEVSET U 1D NMR raw data files/700,Assay,Study Sample,100,TRUE,DevSet2v3
+Long-Term Reference 06,DEVSET U 1D NMR raw data files/710,Precision Reference,External Reference,100,TRUE,External Reference
+Study Reference 06,DEVSET U 1D NMR raw data files/720,Precision Reference,Study Pool,100,TRUE,Study Pool
+DevSet1_Rep11,DEVSET U 1D NMR raw data files/730,Assay,Study Sample,100,TRUE,DevSet1
+DevSet2_Rep11,DEVSET U 1D NMR raw data files/740,Assay,Study Sample,100,TRUE,DevSet2
+DevSet3_Rep11,DEVSET U 1D NMR raw data files/750,Assay,Study Sample,100,TRUE,DevSet3
+DevSet4_Rep11,DEVSET U 1D NMR raw data files/760,Assay,Study Sample,100,TRUE,DevSet1v2
+DevSet5_Rep11,DEVSET U 1D NMR raw data files/770,Assay,Study Sample,100,TRUE,DevSet1v3
+DevSet6_Rep11,DEVSET U 1D NMR raw data files/780,Assay,Study Sample,100,TRUE,DevSet2v3
+DevSet1_Rep12,DEVSET U 1D NMR raw data files/790,Assay,Study Sample,100,TRUE,DevSet1
+DevSet2_Rep12,DEVSET U 1D NMR raw data files/800,Assay,Study Sample,100,TRUE,DevSet2
+DevSet3_Rep12,DEVSET U 1D NMR raw data files/810,Assay,Study Sample,100,TRUE,DevSet3
+DevSet4_Rep12,DEVSET U 1D NMR raw data files/820,Assay,Study Sample,100,TRUE,DevSet1v2
+Long-Term Reference 07,DEVSET U 1D NMR raw data files/830,Precision Reference,External Reference,100,TRUE,External Reference
+Study Reference 07,DEVSET U 1D NMR raw data files/840,Precision Reference,Study Pool,100,TRUE,Study Pool
+DevSet5_Rep12,DEVSET U 1D NMR raw data files/850,Assay,Study Sample,100,TRUE,DevSet1v3
+DevSet6_Rep12,DEVSET U 1D NMR raw data files/860,Assay,Study Sample,100,TRUE,DevSet2v3
+DevSet1_Rep13,DEVSET U 1D NMR raw data files/870,Assay,Study Sample,100,TRUE,DevSet1
+DevSet2_Rep13,DEVSET U 1D NMR raw data files/880,Assay,Study Sample,100,TRUE,DevSet2
+DevSet3_Rep13,DEVSET U 1D NMR raw data files/890,Assay,Study Sample,100,TRUE,DevSet3
+DevSet4_Rep13,DEVSET U 1D NMR raw data files/900,Assay,Study Sample,100,TRUE,DevSet1v2
+DevSet5_Rep13,DEVSET U 1D NMR raw data files/910,Assay,Study Sample,100,TRUE,DevSet1v3
+DevSet6_Rep13,DEVSET U 1D NMR raw data files/920,Assay,Study Sample,100,TRUE,DevSet2v3
+Blank 01,DEVSET U 1D NMR raw data files/940,Assay,Procedural Blank,100,TRUE,Blank
+Long-Term Reference 08,DEVSET U 1D NMR raw data files/950,Precision Reference,External Reference,100,TRUE,External Reference
+Study Reference 08,DEVSET U 1D NMR raw data files/960,Precision Reference,Study Pool,100,TRUE,Study Pool

@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 6
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 3	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ 2018-01-30 09:05:07.816 +0000  nmrsu@npc-nmr-02
+$$ c:/IVDrData/data/PipelineTest_Urine_300K_RFT_290118/190/pdata/2/outd
+$$ process C:\Bruker\TopSpin3.5pl6\prog\au\bin\hwcal.exe
+##$CURPLOT= <PDF Complete>
+##$CURPRIN= <$PDF Complete>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_H.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

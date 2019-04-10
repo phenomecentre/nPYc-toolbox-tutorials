@@ -1,0 +1,28 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ c:/IVDrData/data/PipelineTest_Urine_300K_RFT_290118/820/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2018-01-30 13:01:47.276 +0000>,<nmrsu>,<npc-nmr-02>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2018-01-30 12:57:38.586 +0000,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       B2 D3 82 EA 98 1D 45 42 DB 3D 4A E1 39 24 24 36
+       data hash MD5: 64K
+       1F 5D 80 D2 78 EA DB BD 4C B3 84 15 59 52 79 A6>)
+(   2,<2018-01-30 13:01:47.356 +0000>,<nmrsu>,<npc-nmr-02>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       ICON-NMR User ID: nmrsu
+       data hash MD5: 64K
+       1F 5D 80 D2 78 EA DB BD 4C B3 84 15 59 52 79 A6>)
+(   3,<2018-01-30 13:01:55.216 +0000>,<nmrsu>,<npc-nmr-02>,<proc1d>,<TopSpin 3.5.6>,
+      <Start of raw data processing
+       efp 1 LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 158.8184 PHC1 = 0 SI = 128K 
+       data hash MD5: 128K
+       87 52 81 7E F3 D9 67 8C F2 A5 C1 17 03 DF 53 00>)
+##END=
+
+$$ hash MD5
+$$ 87 DE 81 93 24 CB 9D FB 02 82 E6 B7 FD FF 09 0F

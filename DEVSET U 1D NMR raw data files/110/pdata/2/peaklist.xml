@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmrsu" date="2018-01-31T13:21:33.289+00:00" expNo="110" name="PipelineTest_Urine_300K_RFT_290118" owner="" procNo="2" source="c:/IVDrData/data">
+      <PeakPickDetails>F1=0.094283ppm, F2=-0.188566ppm, MI=50.00cm, MAXI=10000.00cm, PC=4.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="-0.000032" intensity="1.000000e+002" type="0"/>
+  </PeakList1D>
+</PeakList>
