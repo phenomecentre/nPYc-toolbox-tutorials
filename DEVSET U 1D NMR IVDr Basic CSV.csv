@@ -1,0 +1,96 @@
+Sample ID,Sample File Name,AssayRole,SampleType,Dilution,Include Sample,Class
+DevSet1_Rep1,PipelineTest_Urine_300K_RFT_290118/10,Assay,Study Sample,100,TRUE,DevSet1
+DevSet2_Rep1,PipelineTest_Urine_300K_RFT_290118/20,Assay,Study Sample,100,TRUE,DevSet2
+DevSet3_Rep1,PipelineTest_Urine_300K_RFT_290118/30,Assay,Study Sample,100,TRUE,DevSet3
+DevSet4_Rep1,PipelineTest_Urine_300K_RFT_290118/40,Assay,Study Sample,100,TRUE,DevSet1v2
+DevSet5_Rep1,PipelineTest_Urine_300K_RFT_290118/50,Assay,Study Sample,100,TRUE,DevSet1v3
+DevSet6_Rep1,PipelineTest_Urine_300K_RFT_290118/60,Assay,Study Sample,100,TRUE,DevSet2v3
+DevSet1_Rep2,PipelineTest_Urine_300K_RFT_290118/70,Assay,Study Sample,100,TRUE,DevSet1
+DevSet2_Rep2,PipelineTest_Urine_300K_RFT_290118/80,Assay,Study Sample,100,TRUE,DevSet2
+DevSet3_Rep2,PipelineTest_Urine_300K_RFT_290118/90,Assay,Study Sample,100,TRUE,DevSet3
+DevSet4_Rep2,PipelineTest_Urine_300K_RFT_290118/100,Assay,Study Sample,100,TRUE,DevSet1v2
+Long-Term Reference 01,PipelineTest_Urine_300K_RFT_290118/110,Precision Reference,External Reference,100,TRUE,External Reference
+Study Reference 01,PipelineTest_Urine_300K_RFT_290118/120,Precision Reference,Study Pool,100,TRUE,Study Pool
+DevSet5_Rep2,PipelineTest_Urine_300K_RFT_290118/130,Assay,Study Sample,100,TRUE,DevSet1v3
+DevSet6_Rep2,PipelineTest_Urine_300K_RFT_290118/140,Assay,Study Sample,100,TRUE,DevSet2v3
+DevSet1_Rep3,PipelineTest_Urine_300K_RFT_290118/150,Assay,Study Sample,100,TRUE,DevSet1
+DevSet2_Rep3,PipelineTest_Urine_300K_RFT_290118/160,Assay,Study Sample,100,TRUE,DevSet2
+DevSet3_Rep3,PipelineTest_Urine_300K_RFT_290118/170,Assay,Study Sample,100,TRUE,DevSet3
+DevSet4_Rep3,PipelineTest_Urine_300K_RFT_290118/180,Assay,Study Sample,100,TRUE,DevSet1v2
+DevSet5_Rep3,PipelineTest_Urine_300K_RFT_290118/190,Assay,Study Sample,100,TRUE,DevSet1v3
+DevSet6_Rep3,PipelineTest_Urine_300K_RFT_290118/200,Assay,Study Sample,100,TRUE,DevSet2v3
+DevSet1_Rep4,PipelineTest_Urine_300K_RFT_290118/210,Assay,Study Sample,100,TRUE,DevSet1
+DevSet2_Rep4,PipelineTest_Urine_300K_RFT_290118/220,Assay,Study Sample,100,TRUE,DevSet2
+Long-Term Reference 02,PipelineTest_Urine_300K_RFT_290118/230,Precision Reference,External Reference,100,TRUE,External Reference
+Study Reference 02,PipelineTest_Urine_300K_RFT_290118/240,Precision Reference,Study Pool,100,TRUE,Study Pool
+DevSet3_Rep4,PipelineTest_Urine_300K_RFT_290118/250,Assay,Study Sample,100,TRUE,DevSet3
+DevSet4_Rep4,PipelineTest_Urine_300K_RFT_290118/260,Assay,Study Sample,100,TRUE,DevSet1v2
+DevSet5_Rep4,PipelineTest_Urine_300K_RFT_290118/270,Assay,Study Sample,100,TRUE,DevSet1v3
+DevSet6_Rep4,PipelineTest_Urine_300K_RFT_290118/280,Assay,Study Sample,100,TRUE,DevSet2v3
+DevSet1_Rep5,PipelineTest_Urine_300K_RFT_290118/290,Assay,Study Sample,100,TRUE,DevSet1
+DevSet2_Rep5,PipelineTest_Urine_300K_RFT_290118/300,Assay,Study Sample,100,TRUE,DevSet2
+DevSet3_Rep5,PipelineTest_Urine_300K_RFT_290118/310,Assay,Study Sample,100,TRUE,DevSet3
+DevSet4_Rep5,PipelineTest_Urine_300K_RFT_290118/320,Assay,Study Sample,100,TRUE,DevSet1v2
+DevSet5_Rep5,PipelineTest_Urine_300K_RFT_290118/330,Assay,Study Sample,100,TRUE,DevSet1v3
+DevSet6_Rep5,PipelineTest_Urine_300K_RFT_290118/340,Assay,Study Sample,100,TRUE,DevSet2v3
+Long-Term Reference 03,PipelineTest_Urine_300K_RFT_290118/350,Precision Reference,External Reference,100,TRUE,External Reference
+Study Reference 03,PipelineTest_Urine_300K_RFT_290118/360,Precision Reference,Study Pool,100,TRUE,Study Pool
+DevSet1_Rep6,PipelineTest_Urine_300K_RFT_290118/370,Assay,Study Sample,100,TRUE,DevSet1
+DevSet2_Rep6,PipelineTest_Urine_300K_RFT_290118/380,Assay,Study Sample,100,TRUE,DevSet2
+DevSet3_Rep6,PipelineTest_Urine_300K_RFT_290118/390,Assay,Study Sample,100,TRUE,DevSet3
+DevSet4_Rep6,PipelineTest_Urine_300K_RFT_290118/400,Assay,Study Sample,100,TRUE,DevSet1v2
+DevSet5_Rep6,PipelineTest_Urine_300K_RFT_290118/410,Assay,Study Sample,100,TRUE,DevSet1v3
+DevSet6_Rep6,PipelineTest_Urine_300K_RFT_290118/420,Assay,Study Sample,100,TRUE,DevSet2v3
+DevSet1_Rep7,PipelineTest_Urine_300K_RFT_290118/430,Assay,Study Sample,100,TRUE,DevSet1
+DevSet2_Rep7,PipelineTest_Urine_300K_RFT_290118/440,Assay,Study Sample,100,TRUE,DevSet2
+DevSet3_Rep7,PipelineTest_Urine_300K_RFT_290118/450,Assay,Study Sample,100,TRUE,DevSet3
+DevSet4_Rep7,PipelineTest_Urine_300K_RFT_290118/460,Assay,Study Sample,100,TRUE,DevSet1v2
+Long-Term Reference 04,PipelineTest_Urine_300K_RFT_290118/470,Precision Reference,External Reference,100,TRUE,External Reference
+Study Reference 04,PipelineTest_Urine_300K_RFT_290118/480,Precision Reference,Study Pool,100,TRUE,Study Pool
+DevSet5_Rep7,PipelineTest_Urine_300K_RFT_290118/490,Assay,Study Sample,100,TRUE,DevSet1v3
+DevSet6_Rep7,PipelineTest_Urine_300K_RFT_290118/500,Assay,Study Sample,100,TRUE,DevSet2v3
+DevSet1_Rep8,PipelineTest_Urine_300K_RFT_290118/510,Assay,Study Sample,100,TRUE,DevSet1
+DevSet2_Rep8,PipelineTest_Urine_300K_RFT_290118/520,Assay,Study Sample,100,TRUE,DevSet2
+DevSet3_Rep8,PipelineTest_Urine_300K_RFT_290118/530,Assay,Study Sample,100,TRUE,DevSet3
+DevSet4_Rep8,PipelineTest_Urine_300K_RFT_290118/540,Assay,Study Sample,100,TRUE,DevSet1v2
+DevSet5_Rep8,PipelineTest_Urine_300K_RFT_290118/550,Assay,Study Sample,100,TRUE,DevSet1v3
+DevSet6_Rep8,PipelineTest_Urine_300K_RFT_290118/560,Assay,Study Sample,100,TRUE,DevSet2v3
+DevSet1_Rep9,PipelineTest_Urine_300K_RFT_290118/570,Assay,Study Sample,100,TRUE,DevSet1
+DevSet2_Rep9,PipelineTest_Urine_300K_RFT_290118/580,Assay,Study Sample,100,TRUE,DevSet2
+Long-Term Reference 05,PipelineTest_Urine_300K_RFT_290118/590,Precision Reference,External Reference,100,TRUE,External Reference
+Study Reference 05,PipelineTest_Urine_300K_RFT_290118/600,Precision Reference,Study Pool,100,TRUE,Study Pool
+DevSet3_Rep9,PipelineTest_Urine_300K_RFT_290118/610,Assay,Study Sample,100,TRUE,DevSet3
+DevSet4_Rep9,PipelineTest_Urine_300K_RFT_290118/620,Assay,Study Sample,100,TRUE,DevSet1v2
+DevSet5_Rep9,PipelineTest_Urine_300K_RFT_290118/630,Assay,Study Sample,100,TRUE,DevSet1v3
+DevSet6_Rep9,PipelineTest_Urine_300K_RFT_290118/640,Assay,Study Sample,100,TRUE,DevSet2v3
+DevSet1_Rep10,PipelineTest_Urine_300K_RFT_290118/650,Assay,Study Sample,100,TRUE,DevSet1
+DevSet2_Rep10,PipelineTest_Urine_300K_RFT_290118/660,Assay,Study Sample,100,TRUE,DevSet2
+DevSet3_Rep10,PipelineTest_Urine_300K_RFT_290118/670,Assay,Study Sample,100,TRUE,DevSet3
+DevSet4_Rep10,PipelineTest_Urine_300K_RFT_290118/680,Assay,Study Sample,100,TRUE,DevSet1v2
+DevSet5_Rep10,PipelineTest_Urine_300K_RFT_290118/690,Assay,Study Sample,100,TRUE,DevSet1v3
+DevSet6_Rep10,PipelineTest_Urine_300K_RFT_290118/700,Assay,Study Sample,100,TRUE,DevSet2v3
+Long-Term Reference 06,PipelineTest_Urine_300K_RFT_290118/710,Precision Reference,External Reference,100,TRUE,External Reference
+Study Reference 06,PipelineTest_Urine_300K_RFT_290118/720,Precision Reference,Study Pool,100,TRUE,Study Pool
+DevSet1_Rep11,PipelineTest_Urine_300K_RFT_290118/730,Assay,Study Sample,100,TRUE,DevSet1
+DevSet2_Rep11,PipelineTest_Urine_300K_RFT_290118/740,Assay,Study Sample,100,TRUE,DevSet2
+DevSet3_Rep11,PipelineTest_Urine_300K_RFT_290118/750,Assay,Study Sample,100,TRUE,DevSet3
+DevSet4_Rep11,PipelineTest_Urine_300K_RFT_290118/760,Assay,Study Sample,100,TRUE,DevSet1v2
+DevSet5_Rep11,PipelineTest_Urine_300K_RFT_290118/770,Assay,Study Sample,100,TRUE,DevSet1v3
+DevSet6_Rep11,PipelineTest_Urine_300K_RFT_290118/780,Assay,Study Sample,100,TRUE,DevSet2v3
+DevSet1_Rep12,PipelineTest_Urine_300K_RFT_290118/790,Assay,Study Sample,100,TRUE,DevSet1
+DevSet2_Rep12,PipelineTest_Urine_300K_RFT_290118/800,Assay,Study Sample,100,TRUE,DevSet2
+DevSet3_Rep12,PipelineTest_Urine_300K_RFT_290118/810,Assay,Study Sample,100,TRUE,DevSet3
+DevSet4_Rep12,PipelineTest_Urine_300K_RFT_290118/820,Assay,Study Sample,100,TRUE,DevSet1v2
+Long-Term Reference 07,PipelineTest_Urine_300K_RFT_290118/830,Precision Reference,External Reference,100,TRUE,External Reference
+Study Reference 07,PipelineTest_Urine_300K_RFT_290118/840,Precision Reference,Study Pool,100,TRUE,Study Pool
+DevSet5_Rep12,PipelineTest_Urine_300K_RFT_290118/850,Assay,Study Sample,100,TRUE,DevSet1v3
+DevSet6_Rep12,PipelineTest_Urine_300K_RFT_290118/860,Assay,Study Sample,100,TRUE,DevSet2v3
+DevSet1_Rep13,PipelineTest_Urine_300K_RFT_290118/870,Assay,Study Sample,100,TRUE,DevSet1
+DevSet2_Rep13,PipelineTest_Urine_300K_RFT_290118/880,Assay,Study Sample,100,TRUE,DevSet2
+DevSet3_Rep13,PipelineTest_Urine_300K_RFT_290118/890,Assay,Study Sample,100,TRUE,DevSet3
+DevSet4_Rep13,PipelineTest_Urine_300K_RFT_290118/900,Assay,Study Sample,100,TRUE,DevSet1v2
+DevSet5_Rep13,PipelineTest_Urine_300K_RFT_290118/910,Assay,Study Sample,100,TRUE,DevSet1v3
+DevSet6_Rep13,PipelineTest_Urine_300K_RFT_290118/920,Assay,Study Sample,100,TRUE,DevSet2v3
+Blank 01,PipelineTest_Urine_300K_RFT_290118/940,Assay,Procedural Blank,100,TRUE,Blank
+Long-Term Reference 08,PipelineTest_Urine_300K_RFT_290118/950,Precision Reference,External Reference,100,TRUE,External Reference
+Study Reference 08,PipelineTest_Urine_300K_RFT_290118/960,Precision Reference,Study Pool,100,TRUE,Study Pool
